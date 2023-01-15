@@ -1,0 +1,19 @@
+
+/* here is our stylesheet */
+
+/* following examples are of tag selectors */
+h1{
+    color: red;
+}
+
+img{
+    height: 100px;
+    width: 150px;
+    border-radius: 2%;
+}
+
+/* following is the example of pseudo class selector notice the ":" */
+a:hover{
+    color:red;
+}
+
